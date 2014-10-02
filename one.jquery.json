@@ -1,0 +1,10 @@
+{"name": "one",
+"version": "1.0.0",
+"title": "jQuery helpers to assert how many elements should be in a jQuery array",
+"author": {"name": "Tony Lownds", "email": "tony@lownds.com"},
+"licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+"dependencies": {"jquery": "1.0.0 - 2.9.9"},
+"description": "jQuery helpers to help verify that your selectors are returning the expected number of elements.",
+"keywords": ["assert", "verify", "length", "one"],
+"homepage": "http://github.com/tln/jquery.one.js"
+}
